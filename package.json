@@ -1,0 +1,23 @@
+{
+  "name": "mharrington622.github.io",
+  "version": "1.0.0",
+  "description": "Personal website hosted on Github",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mharrington622/mharrington622.github.io.git"
+  },
+  "keywords": [
+    "beefspace",
+    "beef"
+  ],
+  "author": "Beef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mharrington622/mharrington622.github.io/issues"
+  },
+  "homepage": "https://github.com/mharrington622/mharrington622.github.io#readme"
+}
